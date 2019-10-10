@@ -15,6 +15,8 @@ public class Main extends Application {
 		stage.setScene(sc1);
 		stage.setResizable(false);
 		stage.setMinHeight(480);stage.setMinWidth(360);
+		//lw shoft dyh yb2a lazm tt3lm 2zay t5lyk f7alk 
+		stage.setTitle("5ra");
 		stage.show();
 		setUserAgentStylesheet(STYLESHEET_CASPIAN);
 	}

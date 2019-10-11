@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.ResourceBundle;
 
 import javafx.application.Platform;
-import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.event.Event;
 import javafx.event.EventHandler;
@@ -17,8 +16,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.Menu;
 import javafx.scene.control.MenuItem;
 import javafx.scene.control.TextField;
-import javafx.scene.input.KeyCode;
-import javafx.scene.input.KeyCodeCombination;
 
 public class Controller implements Initializable {
 	@FXML
@@ -34,13 +31,18 @@ public class Controller implements Initializable {
 	@FXML
 	public TextField loadText;
 	public Boolean bool = false;
+	public int index = 0;
 	private Calculator cal = new Calculator();
 	private ArrayList<String> Ans;
 	private History h = new History();
 	private String saveLoc = "default.txt";
+	private ArrayList<String> arr = new ArrayList<String>();
 
 	private void addAns() {
 		h.Add("default.txt", Ans);
+		arr.addAll(0,Ans);
+		index = 0;
+		System.out.println(index);
 	}
 
 	public void EqualPressed() {
@@ -59,10 +61,12 @@ public class Controller implements Initializable {
 
 	public void AnsPressed() {
 		String s = tx1.getText();
+		System.out.println(index);
+		String ans = ((arr.size() == 0) ? "0" : arr.get(index +1));
 		if (bool)
-			tx1.setText(tx1.getText() + Ans.get(1));
+			tx1.setText(s + ans);
 		else {
-			tx1.setText(Ans.get(1));
+			tx1.setText(ans);
 			bool = true;
 		}
 	}
@@ -114,13 +118,13 @@ public class Controller implements Initializable {
 				savePressed(i);
 			}
 		});
-		save.getItems().add(m);
-		savePressed(id);
+		if (savePressed(id))
+			save.getItems().add(m);
 	}
 
-	public void savePressed(String id) {
+	public Boolean savePressed(String id) {
 		saveLoc = id;
-		h.Save(saveLoc);
+		return h.Save(saveLoc);
 	}
 
 	public void loadTextAction(ActionEvent e) {
@@ -139,22 +143,52 @@ public class Controller implements Initializable {
 				loadPressed(i);
 			}
 		});
-		load.getItems().add(m);
-		loadPressed(id);
+		if (loadPressed(id))
+			load.getItems().add(m);
 	}
 
-	public void loadPressed(String id) {
-		h.Load(id);
+	public Boolean loadPressed(String id) {
+		tx1.setText("0");
+		bool = false;
+		arr = h.Load(id);
+		if (arr.isEmpty()) {
+			index = -2;
+			l1.setText("");
+		} else {
+			index = 0;
+			l1.setText(arr.get(0) + "=" + arr.get(1));
+		}
+		return !arr.isEmpty();
+	}
+
+	public void prePressed() {
+		tx1.setText("0");
+		bool = false;
+		if (index + 2 >= arr.size())
+			return;
+		else {
+			index += 2;
+			l1.setText(arr.get(index) + "=" + arr.get(index + 1));
+		}
+		System.out.println(index);
+	}
+
+	public void nextPressed() {
+		tx1.setText("0");
+		bool = false;
+		if (index - 2 < 0)
+			return;
+		else {
+			index -= 2;
+			l1.setText(arr.get(index) + "=" + arr.get(index + 1));
+		}
+		System.out.println(index);
 	}
 
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
 		File F = new File("default.txt");
-		try {
-			F.delete();
-		} catch (Exception e) {
-		}
-		;
+		F.delete();
 	}
 
 }

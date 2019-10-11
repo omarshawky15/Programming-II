@@ -200,7 +200,7 @@ public class Controller implements Initializable {
 
 	public void aboutPressed() {
 
-		Alert a = new Alert(AlertType.INFORMATION, "© 2019-2019. All rights reserved To RE Cooperations");
+		Alert a = new Alert(AlertType.INFORMATION, "© 2019-2019. All rights reserved To RE Corporation");
 		a.setTitle("About");
 		a.show();
 	}

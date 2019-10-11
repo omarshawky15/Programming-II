@@ -36,7 +36,7 @@ public class Calculator implements Calculators {
 	public String equal(String s) {
 		try {
 			String[] st = s.split("[ + * // - ]+");
-			if(st.length>=3)return "Input Error";
+			if(!(st.length==2))return "Input Error";
 			String sa = st[0];
 			double a = Double.parseDouble(sa);
 			sa = st[1];

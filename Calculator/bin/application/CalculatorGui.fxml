@@ -13,14 +13,14 @@
           <Menu mnemonicParsing="false" text="File">
             <items>
                   <Menu fx:id="save" mnemonicParsing="false" text="SaveAs ">
-                     <graphic>
-                        <TextField fx:id="saveText" alignment="CENTER" onAction="#saveTextAction" promptText="Enter save file name+Ent" />
-                     </graphic>
+                     <items>
+                        <MenuItem fx:id="Add" mnemonicParsing="false" onAction="#saveAction" text="Add+" />
+                     </items>
                   </Menu>
                   <Menu fx:id="load" mnemonicParsing="false" text="Load">
-                     <graphic>
-                        <TextField fx:id="loadText" alignment="CENTER" onAction="#loadTextAction" promptText="Enter load file name+Ent" />
-                     </graphic>
+                     <items>
+                        <MenuItem mnemonicParsing="false" onAction="#loadAction" text="Add+" />
+                     </items>
                   </Menu>
                   <MenuItem mnemonicParsing="false" onAction="#quickSavePressed" text="Save">
                      <accelerator>
@@ -33,6 +33,7 @@
                      </accelerator></MenuItem>
             </items>
           </Menu>
+            <Menu fx:id="hist" mnemonicParsing="false" text="History" />
           <Menu mnemonicParsing="false" text="Help">
             <items>
               <MenuItem mnemonicParsing="false" onAction="#aboutPressed" text="About" />

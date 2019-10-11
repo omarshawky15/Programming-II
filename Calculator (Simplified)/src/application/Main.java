@@ -14,7 +14,7 @@ public class Main extends Application {
 		Scene sc1 = new Scene(root);
 		stage.setScene(sc1);
 		stage.setResizable(false);
-		stage.setMinHeight(480);stage.setMinWidth(360);
+		stage.setMinHeight(400);stage.setMinWidth(350);
 		//lw shoft dyh yb2a lazm tt3lm 2zay t5lyk f7alk 
 		stage.setTitle("5ra");
 		stage.show();

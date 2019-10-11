@@ -84,7 +84,7 @@ public class History {
 		return arr;
 	}
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		String[] s = { "3+3", "6" };
 		History h = new History();
 		ArrayList<String> arr = h.Add("1.txt", s);
@@ -95,6 +95,6 @@ public class History {
 		arr = h.Add("1.txt", s);
 		for (int i = 0; i < arr.size(); i++)
 			System.out.println(arr.get(i));
-	}
+	}*/
 
 }

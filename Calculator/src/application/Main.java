@@ -16,7 +16,7 @@ public class Main extends Application {
 		stage.setResizable(false);
 		stage.setMinHeight(400);stage.setMinWidth(350);
 		//lw shoft dyh yb2a lazm tt3lm 2zay t5lyk f7alk 
-		stage.setTitle("5ra");
+		stage.setTitle("RE Calculator");
 		stage.show();
 		setUserAgentStylesheet(STYLESHEET_CASPIAN);
 	}

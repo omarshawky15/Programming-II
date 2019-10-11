@@ -67,7 +67,7 @@ public class History {
 			FileWriter fw = new FileWriter(F);
 			BufferedWriter bw = new BufferedWriter(fw);
 			int sz = arr.size();
-			if (sz == 0) {
+			if ((int)sz == 0) {
 				bw.close();
 				return false;
 			}
@@ -83,13 +83,5 @@ public class History {
 		}
 		return true;
 	}
-
-	/*
-	 * public static void main(String[] args) { String[] s = { "3+3", "6" }; History
-	 * h = new History(); ArrayList<String> arr = h.Add("1.txt", s); for (int i = 0;
-	 * i < arr.size(); i++) System.out.println(arr.get(i)); s[0] = "2+2"; s[1] =
-	 * "4"; arr = h.Add("1.txt", s); for (int i = 0; i < arr.size(); i++)
-	 * System.out.println(arr.get(i)); }
-	 */
 
 }

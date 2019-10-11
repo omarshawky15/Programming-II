@@ -35,20 +35,17 @@ public class Calculator implements Calculators {
 	@Override
 	public String equal(String s) {
 		try {
-			//System.out.println(s);
-			String[] st = s.split("[ + * // - ]");
+			String[] st = s.split("[ + * // - ]+");
+			if(st.length>=3)return "Input Error";
 			String sa = st[0];
 			double a = Double.parseDouble(sa);
-			//System.out.println(sa);
 			sa = st[1];
-			//System.out.println(sa);
 			double b = Double.parseDouble(sa);
 			double c;
 			int i = 0;
 			while ((s.charAt(i) < 58 && s.charAt(i) > 47) || s.charAt(i) == '.' || s.charAt(i) == ' ')
 				i++;
 			sa = s.charAt(i) + "";
-			//System.out.println(sa);
 			if (sa.equals("+"))
 				c = add(a, b);
 			else if (sa.equals("-"))

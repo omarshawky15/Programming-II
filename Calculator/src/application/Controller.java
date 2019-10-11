@@ -11,11 +11,14 @@ import javafx.event.Event;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.Menu;
 import javafx.scene.control.MenuItem;
 import javafx.scene.control.TextField;
+import javafx.scene.control.TextInputDialog;
+import javafx.scene.control.Alert.AlertType;
 
 public class Controller implements Initializable {
 	@FXML
@@ -37,12 +40,11 @@ public class Controller implements Initializable {
 	private History h = new History();
 	private String saveLoc = "default.txt";
 	private ArrayList<String> arr = new ArrayList<String>();
-
+	private TextInputDialog tid = new TextInputDialog();
 	private void addAns() {
 		h.Add("default.txt", Ans);
 		arr.addAll(0,Ans);
 		index = 0;
-		System.out.println(index);
 	}
 
 	public void EqualPressed() {
@@ -61,7 +63,6 @@ public class Controller implements Initializable {
 
 	public void AnsPressed() {
 		String s = tx1.getText();
-		System.out.println(index);
 		String ans = ((arr.size() == 0) ? "0" : arr.get(index +1));
 		if (bool)
 			tx1.setText(s + ans);
@@ -74,7 +75,6 @@ public class Controller implements Initializable {
 	public void buttonPressed(Event e) {
 		Button b = (Button) e.getSource();
 		String s = b.getId();
-		System.out.println(s);
 		if (bool)
 			tx1.setText(tx1.getText() + s);
 		else
@@ -102,10 +102,9 @@ public class Controller implements Initializable {
 		Platform.exit();
 	}
 
-	public void saveTextAction(ActionEvent e) {
-		TextField tf = (TextField) e.getSource();
-		String id = tf.getText();
-		tf.setText("");
+	public void saveTextAction() {
+		String id = saveText.getText();
+		saveText.setText("");
 		MenuItem m = new MenuItem();
 		m.setText(id);
 		m.setId(id);
@@ -120,13 +119,16 @@ public class Controller implements Initializable {
 		});
 		if (savePressed(id))
 			save.getItems().add(m);
+		return ;
 	}
 
 	public Boolean savePressed(String id) {
 		saveLoc = id;
 		return h.Save(saveLoc);
 	}
-
+	public void quickSavePressed() {
+		h.Save(saveLoc);
+		}
 	public void loadTextAction(ActionEvent e) {
 		TextField tf = (TextField) e.getSource();
 		String id = tf.getText();
@@ -170,7 +172,6 @@ public class Controller implements Initializable {
 			index += 2;
 			l1.setText(arr.get(index) + "=" + arr.get(index + 1));
 		}
-		System.out.println(index);
 	}
 
 	public void nextPressed() {
@@ -182,7 +183,12 @@ public class Controller implements Initializable {
 			index -= 2;
 			l1.setText(arr.get(index) + "=" + arr.get(index + 1));
 		}
-		System.out.println(index);
+	}
+	public void aboutPressed() {
+		
+		Alert a =new Alert(AlertType.INFORMATION,"© 2019-2019. All rights reserved To RE Cooperations");
+		a.setTitle("About");
+		a.show();
 	}
 
 	@Override

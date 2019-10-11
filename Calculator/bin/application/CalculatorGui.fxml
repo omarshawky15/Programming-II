@@ -22,6 +22,11 @@
                         <TextField fx:id="loadText" alignment="CENTER" onAction="#loadTextAction" promptText="Enter load file name+Ent" />
                      </graphic>
                   </Menu>
+                  <MenuItem mnemonicParsing="false" onAction="#quickSavePressed" text="Save">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="S" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
                   <MenuItem mnemonicParsing="false" onAction="#closePressed" text="Close">
                      <accelerator>
                         <KeyCodeCombination alt="UP" code="W" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
@@ -30,7 +35,7 @@
           </Menu>
           <Menu mnemonicParsing="false" text="Help">
             <items>
-              <MenuItem mnemonicParsing="false" text="About" />
+              <MenuItem mnemonicParsing="false" onAction="#aboutPressed" text="About" />
             </items>
           </Menu>
         </menus>
@@ -39,9 +44,9 @@
          <children>
             <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
                <children>
-                  <Button maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#prePressed" text="&lt;-" />
-                  <Label fx:id="l1" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="61.0" prefWidth="275.0" style="-fx-background-color: #FFFFE0;" />
-                  <Button cancelButton="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#nextPressed" text="-&gt;" />
+                  <Button maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#prePressed" prefHeight="54.0" prefWidth="54.0" text="&lt;-" />
+                  <Label fx:id="l1" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="50.0" prefWidth="257.0" style="-fx-background-color: #FFFFE0;" />
+                  <Button cancelButton="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#nextPressed" prefHeight="54.0" prefWidth="54.0" text="-&gt;" />
                </children>
             </HBox>
             <TextField fx:id="tx1" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="47.0" prefWidth="350.0" text="0" />
@@ -80,7 +85,7 @@
             <Button maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onMouseClicked="#ACPressed" style="-fx-background-color: red;" text="AC" GridPane.columnIndex="4" />
             <Button maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onMouseClicked="#delPressed" style="-fx-background-color: red;" text="DEL" GridPane.columnIndex="3" />
             <Button maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onMouseClicked="#AnsPressed" text="ANS" GridPane.columnIndex="2" GridPane.rowIndex="3" />
-            <Button id="=" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onMouseClicked="#EqualPressed" text="=" GridPane.columnIndex="4" GridPane.rowIndex="2" GridPane.rowSpan="2" />
+            <Button id="=" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onMouseClicked="#EqualPressed" style="-fx-background-color: #00FF00;" text="=" GridPane.columnIndex="4" GridPane.rowIndex="2" GridPane.rowSpan="2" />
          </children>
       </GridPane>
    </children>

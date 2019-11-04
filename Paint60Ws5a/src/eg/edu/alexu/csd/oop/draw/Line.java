@@ -20,7 +20,9 @@ public class Line implements Shape {
 	public void setPosition(Point position) {
 		this.position = position;
 	}
-
+	public Boolean contains(Point p){
+		return l.contains(p);
+	}
 	@Override
 	public Point getPosition() {
 		return position;
@@ -34,7 +36,9 @@ public class Line implements Shape {
 		double y1 = properties.get("Y1");
 		double y2 = properties.get("Y2");
 		l.setLine(x1, y1, x2, y2);
-		position = new Point((int) (x2 - x1), (int) (y2 - y1));
+		position = new Point((int) ((x2 + x1)/2), (int) ((y2 + y1)/2));
+		this.properties.put("width",Math.abs(x2-x1) );
+		this.properties.put("height",Math.abs(y2-y1)  );
 	}
 
 	@Override
@@ -65,13 +69,24 @@ public class Line implements Shape {
 	@Override
 	public void draw(Graphics canvas) {
 		Graphics2D g2 = (Graphics2D) canvas;
-		g2.setColor(this.getFillColor());
+		g2.setColor(this.getColor());
 		g2.draw(l);
 	}
 
 	public Object clone() throws CloneNotSupportedException {
-		return null;
-		// create a deep clone of the shape
+		Line temp = new Line();
+		Map<String, Double> proTemp = new HashMap<String, Double>();
+		proTemp.put("X1", new Double(properties.get("X1")));
+		proTemp.put("X2", new Double(properties.get("X2")));
+		proTemp.put("X3", new Double(properties.get("X3")));
+		proTemp.put("Y1", new Double(properties.get("Y1")));
+		proTemp.put("Y2", new Double(properties.get("Y2")));
+		proTemp.put("Y3", new Double(properties.get("Y3")));
+		temp.setProperties(proTemp);
+		temp.setColor(new Color(Outcolor.getRGB()));
+		temp.setFillColor(new Color(incolor.getRGB()));
+		temp.setPosition(new Point(position));
+		return (Object)temp;
 	}
 
 }

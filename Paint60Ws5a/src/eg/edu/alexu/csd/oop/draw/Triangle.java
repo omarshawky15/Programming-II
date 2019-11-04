@@ -12,7 +12,8 @@ import java.util.Map;
 public class Triangle  implements Shape {
 	double sL1 , sL2 ,sL3;
 	Point position = new Point(0, 0) ;
-	Polygon triangle = new Polygon();
+	Polygon outtriangle = new Polygon(new int[] {0,0,0} , new int[] {0,0,0} , 3);
+	Polygon intriangle = new Polygon(new int[] {0,0,0} , new int[] {0,0,0} , 3);
 	Color Outcolor = Color.red;
 	Color incolor = Color.red;
 	Map<String, Double> properties = new HashMap<String, Double>();
@@ -25,7 +26,9 @@ public class Triangle  implements Shape {
 	public Point getPosition() {
 		return position;
 	}
-
+	public Boolean contains(Point p){
+		return outtriangle.contains(p);
+	}
 	@Override
 	public void setProperties(Map<String, Double> properties) {
 		this.properties = properties;
@@ -37,7 +40,8 @@ public class Triangle  implements Shape {
 		double y3 = properties.get("Y3");
 		System.out.println("x1 = " + x1+"x2 = " + x2+"x3 = " + x3);
 		System.out.println("y1 = " + y1+"y2 = " + y2+"y3 = " + y3);
-		triangle= new Polygon(new int [] {(int) x1,(int)x2,(int) x3},new int [] {(int)y1,(int)y2,(int) y3},3);
+		outtriangle= new Polygon(new int [] {(int) x1,(int)x2,(int) x3},new int [] {(int)y1,(int)y2,(int) y3},3);
+		intriangle= new Polygon(new int [] {(int) x1,(int)x2,(int) x3},new int [] {(int)y1,(int)y2,(int) y3},3);
 	}
 
 	@Override
@@ -69,12 +73,25 @@ public class Triangle  implements Shape {
 	public void draw(Graphics canvas) {
 		Graphics2D g2 = (Graphics2D) canvas;
 		g2.setColor(this.getFillColor());
-		g2.draw(triangle);
+		g2.fill(intriangle);
+		g2.setColor(this.getColor());
+		g2.draw(outtriangle);
 	}
 
 	public Object clone() throws CloneNotSupportedException {
-		return null;
-		// create a deep clone of the shape
+		Triangle temp = new Triangle();
+		Map<String, Double> proTemp = new HashMap<String, Double>();
+		proTemp.put("X1", new Double(properties.get("X1")));
+		proTemp.put("X2", new Double(properties.get("X2")));
+		proTemp.put("X3", new Double(properties.get("X3")));
+		proTemp.put("Y1", new Double(properties.get("Y1")));
+		proTemp.put("Y2", new Double(properties.get("Y2")));
+		proTemp.put("Y3", new Double(properties.get("Y3")));
+		temp.setProperties(proTemp);
+		temp.setColor(new Color(Outcolor.getRGB()));
+		temp.setFillColor(new Color(incolor.getRGB()));
+		temp.setPosition(new Point(position));
+		return (Object)temp;
 	}
 
 }

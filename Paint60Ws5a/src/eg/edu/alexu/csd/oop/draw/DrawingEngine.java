@@ -8,7 +8,7 @@ public interface DrawingEngine {
     public void addShape(Shape shape);
     public void removeShape(Shape shape);
     public void updateShape(Shape oldShape, Shape newShape);
-
+    public Shape ShapesContains(java.awt.Point p);
     /* return the created shapes objects */
     public Shape[] getShapes();
     

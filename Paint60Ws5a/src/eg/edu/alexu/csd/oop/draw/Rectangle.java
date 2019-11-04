@@ -11,32 +11,45 @@ import java.util.Map;
 public class Rectangle implements Shape {
 	double width, height;
 	Point position = new Point(0, 0);
-	Rectangle2D rec = new Rectangle2D.Double();
+	Rectangle2D outrec = new Rectangle2D.Double(0, 0, 0, 0);
+	Rectangle2D inrec = new Rectangle2D.Double(0, 0, 0, 0);
 	Color Outcolor = Color.red;
 	Color incolor = Color.red;
 	Map<String, Double> properties = new HashMap<String, Double>();
-
 	@Override
 	public void setPosition(Point position) {
 		this.position = position;
 	}
-
 	@Override
 	public Point getPosition() {
 		return position;
 	}
 
+	public Boolean contains(Point p) {
+		return outrec.contains(p);
+	}
+
 	@Override
 	public void setProperties(Map<String, Double> properties) {
 		this.properties = properties;
-		double x1 = properties.get("X1");
-		double x2 = properties.get("X2");
-		double y1 = properties.get("Y1");
-		double y2 = properties.get("Y2");
-		width = Math.abs(x2 - x1);
-		height = Math.abs(y2 - y1);
-		position = new Point((int) (x2 - x1), (int) (y2 - y1));
-		rec.setRect(Math.min(x1,x2), Math.min(y1,y2), width, height);
+
+		double x1 = this.properties.get("X1");
+		double x2 = this.properties.get("X2");
+		double y1 = this.properties.get("Y1");
+		double y2 = this.properties.get("Y2");
+		/*try {
+			width = properties.get("width");
+			height = properties.get("height");
+		} catch (Exception e) {*/
+			width = Math.abs(x2 - x1);
+			height = Math.abs(y2 - y1);
+		//}
+		outrec.setRect(Math.min(x1, x2), Math.min(y1, y2), width, height);
+		inrec.setRect(Math.min(x1, x2) + 1, Math.min(y1, y2) + 1, width - 1, height - 1);
+		position = new Point((int) (Math.min(x1, x2) + width / 2), (int) (Math.min(y1, y2) + height / 2));
+
+		this.properties.put("width", width);
+		this.properties.put("height", height);
 	}
 
 	@Override
@@ -68,12 +81,18 @@ public class Rectangle implements Shape {
 	public void draw(Graphics canvas) {
 		Graphics2D g2 = (Graphics2D) canvas;
 		g2.setColor(this.getFillColor());
-		g2.draw(rec);
+		g2.fill(inrec);
+		g2.setColor(this.getColor());
+		g2.draw(outrec);
 	}
 
 	public Object clone() throws CloneNotSupportedException {
-		return null;
-		// create a deep clone of the shape
+		Rectangle temp = new Rectangle();
+		temp.setProperties(new HashMap<String, Double>(properties));
+		temp.setColor(new Color(Outcolor.getRGB()));
+		temp.setFillColor(new Color(incolor.getRGB()));
+		temp.setPosition(new Point(position));
+		return (Object)temp;
 	}
 
 }

@@ -9,9 +9,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Ellipse implements Shape {
-	double a , b;
+	double width , height;
 	Point position = new Point(0, 0);
-	Ellipse2D ellipse;
+	Ellipse2D outellipse;
+	Ellipse2D inellipse;
 	Color Outcolor = Color.red;
 	Color incolor = Color.red;
 	Map<String, Double> properties = new HashMap<String, Double>();
@@ -20,7 +21,9 @@ public class Ellipse implements Shape {
 	public void setPosition(Point position) {
 		this.position = position;
 	}
-
+	public Boolean contains(Point p){
+		return outellipse.contains(p);
+	}
 	@Override
 	public Point getPosition() {
 		return position;
@@ -35,11 +38,17 @@ public class Ellipse implements Shape {
 		double y1 = properties.get("Y1");
 		double y2 = properties.get("Y2");
 		double y3 = properties.get("Y3");
-//		System.out.println("x1 = " + x1+"x2 = " + x2+"x3 = " + x3);
-//		System.out.println("y1 = " + y1+"y2 = " + y2+"y3 = " + y3);
+		
+		width =Math.abs(x1 - x2) ; height=Math.abs(y3 - y2) ;
+		outellipse = new Ellipse2D.Double(x1-width, y1-height, width*2, height*2) ;
+		inellipse = new Ellipse2D.Double(x1-width+0.5, y1-height+0.5, width*2-1, height*2-1) ;
+		this.position = new Point((int)x1,(int)y1);
+		width *=2 ; height*=2 ;
+		this.properties.put("a",width );
+		this.properties.put("b",height );
+		this.properties.put("height",height );
+		this.properties.put("width",width );
 
-		double a =Math.abs(x1 - x2) , b=Math.abs(y3 - y2) ;
-		ellipse = new Ellipse2D.Double(x1-a, y1-b, a*2, b*2) ;
 	}
 	@Override
 	public Map<String, Double> getProperties() {
@@ -70,12 +79,25 @@ public class Ellipse implements Shape {
 	public void draw(Graphics canvas) {
 		Graphics2D g2 = (Graphics2D) canvas;
 		g2.setColor(this.getFillColor());
-		g2.draw(ellipse);
+		g2.fill(inellipse);
+		g2.setColor(this.getColor());
+		g2.draw(outellipse);
 	}
 
 	public Object clone() throws CloneNotSupportedException {
-		return null;
-		// create a deep clone of the shape
+		Ellipse temp = new Ellipse();
+		Map<String, Double> proTemp = new HashMap<String, Double>();
+		proTemp.put("X1", new Double(properties.get("X1")));
+		proTemp.put("X2", new Double(properties.get("X2")));
+		proTemp.put("X3", new Double(properties.get("X3")));
+		proTemp.put("Y1", new Double(properties.get("Y1")));
+		proTemp.put("Y2", new Double(properties.get("Y2")));
+		proTemp.put("Y3", new Double(properties.get("Y3")));
+		temp.setProperties(proTemp);
+		temp.setColor(new Color(Outcolor.getRGB()));
+		temp.setFillColor(new Color(incolor.getRGB()));
+		temp.setPosition(new Point(position));
+		return (Object)temp;
 	}
 
 }

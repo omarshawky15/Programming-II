@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <column_name1 DataType="varchar">11111111 11111111 value2</column_name1>
+    <column_name2 DataType="int">22222222 22222222 5</column_name2>
+    <column_name3 DataType="varchar">333333333 333333333 value4</column_name3>
+</table>

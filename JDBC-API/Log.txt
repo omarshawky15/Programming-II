@@ -1,0 +1,1710 @@
+[ FINER ] 12\06\2019 , 17:38 :  Connection Initiated
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ SEVERE ] 12\06\2019 , 17:38 :  Update Query Failed!
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ SEVERE ] 12\06\2019 , 17:38 :  Update Query Failed!
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ SEVERE ] 12\06\2019 , 17:38 :  Update Query Failed!
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ SEVERE ] 12\06\2019 , 17:38 :  Update Query Failed!
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ SEVERE ] 12\06\2019 , 17:38 :  Update Query Failed!
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ SEVERE ] 12\06\2019 , 17:38 :  Update Query Failed!
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Connection Closed
+[ FINER ] 12\06\2019 , 17:38 :  Connection Initiated
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINE ] 12\06\2019 , 17:38 :  Connection Closed
+[ FINER ] 12\06\2019 , 17:38 :  Connection Initiated
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINE ] 12\06\2019 , 17:38 :  Connection Closed
+[ FINER ] 12\06\2019 , 17:38 :  Connection Initiated
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINE ] 12\06\2019 , 17:38 :  Connection Closed
+[ FINER ] 12\06\2019 , 17:38 :  Connection Initiated
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Create|Drop Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINER ] 12\06\2019 , 17:38 :  Statement Created
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Select Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Update Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Select Query executed
+[ FINE ] 12\06\2019 , 17:38 :  Statement Closed
+[ FINE ] 12\06\2019 , 17:38 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:39 :  Statement Created
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:39 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:40 :  Statement Created
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:41 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:41 :  Statement Created
+[ FINE ] 12\07\2019 , 00:41 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:41 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:42 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:42 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:42 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:42 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:42 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:42 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:42 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:42 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:42 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:42 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:42 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:42 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:42 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:42 :  Statement Created
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:42 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:42 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:43 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:43 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:43 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:43 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:43 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINER ] 12\07\2019 , 00:43 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:43 :  Statement Created
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:43 :  Update Query executed
+[ FINER ] 12\07\2019 , 00:44 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:44 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:44 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:44 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:44 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:44 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:44 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:44 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:44 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:44 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:44 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:44 :  Statement Created
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:44 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:44 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:45 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:45 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:45 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:45 :  Invalid Query
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:45 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:45 :  Statement Created
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:45 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:45 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:53 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:53 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 00:53 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:53 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:53 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:53 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:53 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:53 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:53 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:53 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:53 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:53 :  Statement Created
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:53 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:53 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ SEVERE ] 12\07\2019 , 00:54 :  Invalid Query
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Select Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:54 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINER ] 12\07\2019 , 00:54 :  Statement Created
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Update Query executed
+[ FINE ] 12\07\2019 , 00:54 :  Statement Closed
+[ FINE ] 12\07\2019 , 00:54 :  Connection Closed
+[ FINER ] 12\07\2019 , 00:59 :  Connection Initiated
+[ FINER ] 12\07\2019 , 00:59 :  Statement Created
+[ FINE ] 12\07\2019 , 01:00 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:06 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:06 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:06 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:06 :  Statement Created
+[ FINE ] 12\07\2019 , 01:06 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:07 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:07 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:08 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:08 :  Statement Created
+[ FINE ] 12\07\2019 , 01:08 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:11 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:11 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:15 :  Invalid Query
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 01:15 :  Update Query Failed!
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:15 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:15 :  Statement Created
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:15 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:15 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Invalid Query
+[ FINE ] 12\07\2019 , 01:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINE ] 12\07\2019 , 01:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINE ] 12\07\2019 , 01:39 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:39 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:39 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:39 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:39 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Invalid Query
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:40 :  Invalid Query
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 01:40 :  Update Query Failed!
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:40 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:40 :  Statement Created
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:40 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:40 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:41 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 01:41 :  Update Query Failed!
+[ SEVERE ] 12\07\2019 , 01:41 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ SEVERE ] 12\07\2019 , 01:41 :  Update Query Failed!
+[ SEVERE ] 12\07\2019 , 01:41 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ SEVERE ] 12\07\2019 , 01:41 :  Update Query Failed!
+[ SEVERE ] 12\07\2019 , 01:41 :  Update Query Failed!
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:41 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:41 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:41 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:41 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:41 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:41 :  Connection Closed
+[ FINER ] 12\07\2019 , 01:41 :  Connection Initiated
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Create|Drop Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINER ] 12\07\2019 , 01:41 :  Statement Created
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Update Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Select Query executed
+[ FINE ] 12\07\2019 , 01:41 :  Statement Closed
+[ FINE ] 12\07\2019 , 01:41 :  Connection Closed

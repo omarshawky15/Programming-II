@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<table>
-    <column_name1 DataType="varchar"/>
-    <column_name2 DataType="int"/>
-    <column_name3 DataType="varchar"/>
-</table>
